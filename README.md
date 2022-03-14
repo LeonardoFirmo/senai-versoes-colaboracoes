@@ -32,5 +32,7 @@ Publica as alterações no repositório remoto.
 git pull
 Baixa as alterações no repositório remoto.
 
+
 lembrei do comando git commit
 
+lembrei do comando: git status
